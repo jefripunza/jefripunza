@@ -1,0 +1,64 @@
+on: push
+name: 🚀 Push to Github Page
+jobs:
+  linux-app:
+    if: ${{ github.ref == 'refs/heads/main' }}
+    name: 🎉 Building Next App...
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v3
+
+      - name: ✅ Use Node.js 14
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: 🕓 Delayed 10 Second
+        run: |
+          sleep 10
+
+      - name: 🌊 Install Dependencies
+        run: |
+          yarn
+
+      - name: 🎯 Test...
+        run: yarn lint
+        env:
+          CI: true
+
+      - name: ⚒️ Build
+        run: |
+          yarn build
+
+      - name: 🚫 Remove Meta Files & Folders
+        run: |
+          rm -rf .git
+          rm -rf .github
+          rm -rf .next
+          rm -rf node_modules
+          rm -rf pages
+          rm -rf public
+          rm -rf styles
+          rm .eslintrc.json
+          rm .gitignore
+          rm next.config.js
+          rm package-lock.json || true
+          rm package.json
+          rm postcss.config.js
+          rm README.md
+          rm tailwind.config.js
+          rm tsconfig.json
+          rm yarn.lock || true
+
+      - name: Push to another repo
+        run: |
+          git config --global user.email "jefripunza@gmail.com"
+          git config --global user.name "jefripunza"
+          git clone --single-branch --branch main "https://x-access-token:${{ secrets.API_TOKEN_GITHUB }}@github.com/jefripunza/jefripunza.github.io.git" "CLONE_REPO"
+          cd CLONE_REPO
+          rm -rf *
+          mv -v ../out/* ./
+          git add .
+          git commit -m "${{ github.event.head_commit.message }}"
+          git push -u origin HEAD:main
