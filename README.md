@@ -40,6 +40,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31ly22wkgjzxbiamu7fpeaprqbsm)
+<br/>
+
 ### 🔥 Streak Stats
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefripunza&theme=algolia" alt="stazyu" /></p>
 
