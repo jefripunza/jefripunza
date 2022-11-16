@@ -13,9 +13,35 @@
 
 [![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fjefripunza-youtube-channel-badge.vercel.app%2Fapi%2Fvideos)](https://www.youtube.com/user/jefripunza/videos/)
 
+
+</br>
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31ly22wkgjzxbiamu7fpeaprqbsm)
+<br/>
+
+### 🔥 Streak Stats
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefripunza&theme=algolia" alt="stazyu" /></p>
+
+### 📄 Github Stats
+<p align="left">
+<a href="https://github.com/jefripunza">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jefripunza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jefripunza&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+</br>
+
+
 ## Donate
 
 [![Donate](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/jefripunza)
+
+</br>
 
 ## Sosial Media
 
@@ -39,6 +65,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+
+</br>
 
 ## 💼 Technical Skills
 
@@ -187,20 +216,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31ly22wkgjzxbiamu7fpeaprqbsm)
-<br/>
-
-### 🔥 Streak Stats
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefripunza&theme=algolia" alt="stazyu" /></p>
-
-### 📄 Github Stats
-<p align="left">
-<a href="https://github.com/jefripunza">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jefripunza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jefripunza&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
