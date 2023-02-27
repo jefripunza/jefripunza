@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T05:31:59.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="62ejguK1UFMlgeEVzy2t" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T14:42:52.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PdpvuqyUwqVr263bT3lg" version="20.8.23" type="github">
   <diagram id="Mz20hTtd-3zZYKyD4x7U" name="Page-1">
-    <mxGraphModel dx="1195" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hYhVODjh6BjbA2bAsBIY-1" value="SEVA.ID" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hYhVODjh6BjbA2bAsBIY-1" value="SEVA.ID" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hYhVODjh6BjbA2bAsBIY-3" value="ASTRA INTERNASIONAL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hYhVODjh6BjbA2bAsBIY-3" value="ASTRA INTERNASIONAL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hYhVODjh6BjbA2bAsBIY-4" value="BERIJALAN" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hYhVODjh6BjbA2bAsBIY-4" value="BERIJALAN" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hYhVODjh6BjbA2bAsBIY-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hYhVODjh6BjbA2bAsBIY-3" target="hYhVODjh6BjbA2bAsBIY-4">
+        <mxCell id="hYhVODjh6BjbA2bAsBIY-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hYhVODjh6BjbA2bAsBIY-3" target="hYhVODjh6BjbA2bAsBIY-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="200" as="sourcePoint" />
             <mxPoint x="450" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hYhVODjh6BjbA2bAsBIY-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hYhVODjh6BjbA2bAsBIY-4" target="hYhVODjh6BjbA2bAsBIY-1">
+        <mxCell id="hYhVODjh6BjbA2bAsBIY-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hYhVODjh6BjbA2bAsBIY-4" target="hYhVODjh6BjbA2bAsBIY-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="130" as="sourcePoint" />
             <mxPoint x="450" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hYhVODjh6BjbA2bAsBIY-15" value="PER 1 PROJECT...&lt;br&gt;Sprint = Tugas Mingguan&lt;br&gt;1 Sprint = 2 Minggu&lt;br&gt;Gajian = per 1 Sprint&lt;br&gt;1 Sprint = 4JT&lt;br&gt;4x2 = 8&lt;br&gt;3,5x2 = 7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="hYhVODjh6BjbA2bAsBIY-15" value="PER 1 PROJECT...&lt;br&gt;Sprint = Tugas Mingguan&lt;br&gt;1 Sprint = 2 Minggu&lt;br&gt;Gajian = per 1 Sprint&lt;br&gt;1 Sprint = 4JT&lt;br&gt;4x2 = 8&lt;br&gt;3,5x2 = 7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry width="250" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="hYhVODjh6BjbA2bAsBIY-17" value="BAST" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="hYhVODjh6BjbA2bAsBIY-17" value="BAST" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hYhVODjh6BjbA2bAsBIY-18" value="Timesheet" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="hYhVODjh6BjbA2bAsBIY-18" value="Timesheet" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hYhVODjh6BjbA2bAsBIY-19" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;id&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;26-Des-22 - 6-Jan-23&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hYhVODjh6BjbA2bAsBIY-19" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;id&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;24-Feb-23 - 3-Mar-23&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="310" y="390" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
