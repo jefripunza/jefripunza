@@ -23,7 +23,8 @@
 <br/>
 
 ### 🔥 Streak Stats
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefripunza&theme=algolia" alt="stazyu" /></p>
+<!-- <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefripunza&theme=algolia" alt="stazyu" /></p> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=jefripunza&theme=vue-dark&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### 📄 Github Stats
 <p align="left">
