@@ -23,14 +23,17 @@
 <br/>
 
 ### 🔥 Streak Stats
-<!-- <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefripunza&theme=algolia" alt="stazyu" /></p> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=jefripunza&theme=vue-dark&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jefripunza&theme=vue-dark&locale=en&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jefripunza&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=c9d1d9" />
+</div>
 
 ### 📄 Github Stats
 <p align="left">
 <a href="https://github.com/jefripunza">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jefripunza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jefripunza&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jefripunza&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jefripunza&layout=compact&langs_count=8&theme=gotham"/>
 </a>
 </p>
 
